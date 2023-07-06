@@ -8,7 +8,7 @@ void fibonacci()
  for(i=2;i<number;++i)//loop starts from 2 because 0 and 1 are already printed    
  {    
   n3=n1+n2;    
-  printf(" %d",n3\n);    
+  printf(" %d",n3);    
   n1=n2;    
   n2=n3;    
  }  
